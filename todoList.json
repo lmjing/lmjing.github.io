@@ -2,16 +2,16 @@
             {
                 title: '요가 수련',
                 completed: false,
-                createdAt: Date.now()
+                createdAt: '2019-11-13 16:32:02'
             },
             {
                 title: '운동 하기',
                 completed: true,
-                createdAt: Date.now()
+                createdAt: '2019-11-13 16:32:01'
             },
             {
                 title: '앵귤러 학습',
                 completed: true,
-                createdAt: Date.now()
+                createdAt: '2019-11-13 16:32:23'
             }
 ]
